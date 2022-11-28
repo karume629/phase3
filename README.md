@@ -27,7 +27,6 @@ db.json
 
 LIVE SITE
 
-https://jsproject-1.vercel.app/
 
 LICENSE
 
