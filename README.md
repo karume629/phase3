@@ -5,7 +5,7 @@ Author
 Adera Karume
 PROJECT DESCRIPTION
 
-This Website displays the authors of songs on the internet.
+This website is an expense tracker that monitors user expense input.
 
 SETUP
 to access this project on your local files, you can clone it using this steps
